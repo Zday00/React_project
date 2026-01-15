@@ -1,0 +1,19 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zday00/React_project.git"
+  },
+  "author": "zday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zday00/React_project/issues"
+  },
+  "homepage": "https://github.com/Zday00/React_project#readme",
+  "description": ""
+}
